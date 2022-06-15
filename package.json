@@ -1,0 +1,33 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "adventJS challenge",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madf92/adventJS.git"
+  },
+  "keywords": [
+    "adventJS",
+    "javascript",
+    "challenge"
+  ],
+  "author": "Marco Di Bonaventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madf92/adventJS/issues"
+  },
+  "homepage": "https://github.com/Madf92/adventJS#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "jest":{
+    "testEnvironment": "node"
+  }
+}
