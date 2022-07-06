@@ -1,7 +1,7 @@
 /**
  * count sheeps.
- * @param  {any} ovejas The first number.
- * @returns {any} The sum of the two numbers.
+ * @param  {Array} ovejas The first number.
+ * @returns {Array} The sum of the two numbers.
  */
 
 export default function contarOvejas(ovejas) {
